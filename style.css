@@ -1,7 +1,5 @@
-.content1{
-    background-color: aqua;
-}
-
-.content2{
-    background-color: greenyellow;
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
 }
