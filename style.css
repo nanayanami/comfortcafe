@@ -90,3 +90,12 @@ a {
 
 
 
+#news {
+    min-height: 270px;
+    margin-bottom: 40px;
+    background-image: url(./img/cafenews.png);
+}
+
+#news .main-title {
+    text-align: center;
+}
