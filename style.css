@@ -99,3 +99,20 @@ a {
 #news .main-title {
     text-align: center;
 }
+
+.news-contents{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+article{
+    width: 75%;
+    margin-left: 5%;
+    margin-right: 10%;
+}
+
+aside{
+    width: 23%;
+    margin-right: 5%;
+}
