@@ -313,7 +313,45 @@ aside p {
         padding-top: 0;
     }
 
-    
+    .post-date {
+        height: 70px;
+        padding-top: 10px;
+    }
+
+    aside {
+        width: 90%;
+        margin-left: 3%;
+    }
+
+    .menu-drink {
+        display: block;
+    }
+
+    .menu-drink img {
+        width: 80%;
+        margin-bottom: 20px;
+    }
+
+    .drink {
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    .menu-sweets {
+        flex-direction: column-reverse;
+    }
+
+    .menu-sweets img {
+        width: 80%;
+        margin-left:  10%;
+        margin-bottom: 20px;
+    }
+
+    .sweets {
+        width: 80%;
+        margin-left: 10%;
+    }
+
 
 
 }
