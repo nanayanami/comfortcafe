@@ -25,7 +25,7 @@ a {
 }
 
 .heading a {
-    font-family:'times New Roman' , Times , serif ;
+    font-family:'Times New Roman' , Times , serif ;
     color:#1b0704
 }
 
@@ -93,6 +93,7 @@ a {
     min-height: 270px;
     margin-bottom: 40px;
     background-image: url(./img/cafenews.png);
+    background-size: cover;
 }
 
 #news .main-title {
@@ -146,7 +147,7 @@ aside{
     padding-top: 15px;
 }
 
-.article img {
+article img {
     width: 100%;
     margin-bottom: 15px;
 }
@@ -173,9 +174,9 @@ aside p {
 }
 
 .side-article a {
-    color: #1b0704;
+    color:#1b0704;
     padding: 15px;
-    display: black;
+    display: block;
 }
 
 .side-article a:hover {
